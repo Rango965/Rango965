@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭I’m currently code with
+
+- PHP
+- Vue
+- JavaScript
+- Python
+- Qt
+- Shell
+- MySQL
+- Redis
+- Linux
+- Docker
+- CodeIgniter
+
+### 💬Contact Me
+
+- Mail: 18264315@qq.com
